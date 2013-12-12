@@ -1,0 +1,4 @@
+<?php
+disable_functions
+disable_classes
+allow_call_time_pass_reference
